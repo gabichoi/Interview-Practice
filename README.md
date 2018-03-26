@@ -21,7 +21,6 @@ I can do it :)
 |-----|----|
 |Reverse an array without affecting items |[reverse_string.py](Array/reverse_string.py)|
 |Merge two sorted lists |[merge_sorted_lists.py](Array/merge_sorted_lists.py)|
-|Mergesort Algorithm |[mergesort.py](Array/mergesort.py)|
 
 ### Linked List
 ### Stack
@@ -54,6 +53,7 @@ For each item in the unsorted array, find and remove the smallest item and add i
 #### Merge Sort
 Base case: when an empty or one-item array is reached
 Recurse body: split the array to be sorted in half, recursively call merge sort on each half, merge the sorted half arrays
+[mergesort.py](Array/mergesort.py)
 * Best case: NlogN 
 * Worst case: NlogN 
 #### Quick Sort
