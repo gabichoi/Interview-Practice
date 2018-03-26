@@ -43,22 +43,25 @@ I can do it :)
 
 ### Array
 #### Insertion Sort
-For each item in the unsorted array, swap the item backwards until it is in the correct position
+For each item in the unsorted array, swap the item forward until it is in the correct position
+* [insertion_sort.py](Array/insertion_sort.py)
 * Best case: N (array is already ordered so only checking each item)
 * Worst case: N^2 (array is reversed-sorted so swap for each item)
 #### Selection Sort
 For each item in the unsorted array, find and remove the smallest item and add it to the sorted array
+* [selection_sort.py](Array/selection_sort.py)
 * Best case: N^2 (compare each tiem with every other item)
 * Worst case: N^2
 #### Merge Sort
 Base case: when an empty or one-item array is reached
-Recurse body: split the array to be sorted in half, recursively call merge sort on each half, merge the sorted half arrays
-[mergesort.py](Array/mergesort.py)
+Recurse body: 1) split the array to be sorted in half, 2) recursively call merge sort on each half, 3) merge the sorted half arrays
+* [merge_sort.py](Array/merge_sort.py)
 * Best case: NlogN 
 * Worst case: NlogN 
 #### Quick Sort
 Base case: when an empty or one-item array is reached
 Recursive body: split the array into less-than-items and greater-tahn-items based on a pivot, recursively call quicksort on each array, merge the sorted arrays
+* [quick_sort.py](Array/quick_sort.py)
 * Base case runtime: NlogN (good pivot close to median)
 * Worst case runtime: N^2 (bad pivot close to min or max)
 #### Searching 
