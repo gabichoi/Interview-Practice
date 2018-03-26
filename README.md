@@ -36,4 +36,10 @@ I can do it :)
 #### Searching
 
 ## Runtime
-* 
+| Algorithm | Best Case | Worst Case | Average Case |
+|-----------|-----------|------------|--------------|
+Insertion Sort | N | N^2 | N^2 |
+Selection Sort | N^2 | N^2 | N^2 |
+Merge Sort | NlogN | NlogN | NlogN |
+Quick Sort | NlogN | N^2 | NlogN |
+
