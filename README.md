@@ -25,7 +25,7 @@ I can do it :)
 ### Linked List
 |Topic |File |
 |------|-----|
-|Linked List class |[linked_list.py](Linked_List/linked_list.py)|
+|Linked list class |[linked_list.py](Linked_list/linked_list.py)|
 ### Stack
 * A new item is placed at the back 
 * Only the item at the back can be acceessed at any item
