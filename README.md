@@ -39,9 +39,9 @@ I can do it :)
 |------|-----|
 |Tree class |[tree.py](Tree/tree.py)|
 |Balanced Tree |[balanced_tree.py](Tree/balanced_tree.py)|
-#### Binary Tree
-#### Binary Search Tree
-* Binary tree where the left nodes are less and the right nodes are greater than the parent node 
+|Binary Tree class|[binary_tree.py](Tree/binary_tree.py)|
+|Sum of all entries in the tree|[sum_of_entries.py](Tree/sum_of_entries.py)|
+
 
 ## Algorithms
 
