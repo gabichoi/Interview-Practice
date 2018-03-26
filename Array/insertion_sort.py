@@ -1,4 +1,4 @@
-# Given a list, returns it sorted. Insertion sort algorithm
+# Insertion sort algorithm
 
 def insertion_sort(arr):
 
