@@ -18,11 +18,14 @@ I can do it :)
 
 ### Array
 |Topic |File |
-|-----|----|
+|------|-----|
 |Reverse an array without affecting items |[reverse_string.py](Array/reverse_string.py)|
 |Merge two sorted lists |[merge_sorted_lists.py](Array/merge_sorted_lists.py)|
 
 ### Linked List
+|Topic |File |
+|------|-----|
+|Linked List class |[linked_list.py](Linked_List/linked_list.py)|
 ### Stack
 * A new item is placed at the back 
 * Only the item at the back can be acceessed at any item
@@ -36,9 +39,6 @@ I can do it :)
 #### Binary Search Tree
 * Binary tree where the left nodes are less and the right nodes are greater than the parent node 
 
-### Graph
-### Matrix
-     
 ## Algorithms
 
 ### Array
@@ -64,7 +64,6 @@ Recursive body: split the array into less-than-items and greater-tahn-items base
 * [quick_sort.py](Array/quick_sort.py)
 * Base case runtime: NlogN (good pivot close to median)
 * Worst case runtime: N^2 (bad pivot close to min or max)
-#### Searching 
 
 ### Graph
 #### Breadth-First Search
