@@ -1,7 +1,7 @@
-# Interview-Practice
+# Self-Practice
 I can do it :)
 
-## Self-Tips:
+## Tips:
 * Think out loudly
 * The less pseudocode, the better
 * Try to improve solutions (simplicity and efficiency)
@@ -17,9 +17,11 @@ I can do it :)
 ## Data Structures:
 
 ### Array
-| Topic | File |
-|-------|------|
-|Reverse an array without affecting items | [reverse_string.py](Array/reverse_string.py)|
+|Topic |File |
+|-----|----|
+|Reverse an array without affecting items |[reverse_string.py](Array/reverse_string.py)|
+|Merge two sorted lists |[merge_sorted_lists.py](Array/merge_sorted_lists.py)|
+|Mergesort Algorithm |[mergesort.py](Array/mergesort.py)|
 
 ### Linked List
 ### Stack
