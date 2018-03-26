@@ -1,7 +1,7 @@
 # Interview-Practice
 I can do it :)
 
-## Tips:
+## Self-Tips:
 * Think out loudly
 * Minimum pseudocode 
 * Try to improve solutions (simplicity and efficiency)
@@ -9,21 +9,31 @@ I can do it :)
 * Consider time and space complexities
 * Be careful to base and edge cases
 
+## Index:
+* [Data Structures](#data-structure)
+* [Algorithms](#algorithms)
+* [Runtime](#runtime)
+
 ## Data Structures:
-* [Dynamic Programming](#dynamic-programming)
-* [Graph](#graph)
-* [Heaps](#heaps)
-* [Linked List](#linked-list)
-* [Matrix](#matrix)
-* [String or Array](#string-or-array)
-    * [Searching](#searching)
-    * [Sorting](#sorting)
-* [Tree](#tree)
-    * [Binary Search Tree](#binary-search-tree)
-    * [Binary Tree](#binary-tree)
+
+### Array
+### Linked List
+### Heap
+### Tree
+#### Binary Search Tree
+#### Binary Tree
+### Graph
+### Matrix
      
 ## Algorithms
-* 
+
+### Array
+#### Sorting
+##### Insertion Sort
+##### Selection Sort
+##### Merge Sort
+##### Quick Sort
+#### Searching
 
 ## Runtime
 * 
