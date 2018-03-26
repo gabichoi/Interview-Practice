@@ -90,6 +90,11 @@ Recursive body: split the array into less-than-items and greater-tahn-items base
 | Data Structure | Average Case | | | | Worst Case | | | |
 |----------------|--------------|-|-|-|------------|-|-|-|
 |  | Access | Search | Insert | Remove | Access | Search | Insert | Remove |
+|Array|1|N|N|N|1|N|N|N|
+|Stack|N|N|1|1|N|N|1|1|
+|Queue|N|N|1|1|N|N|1|1|
+|Linked List|N|N|1|1|N|N|1|1|
+Binary Search Tree|logN|logN|logN|logN|N|N|N|N|
 
 
 
