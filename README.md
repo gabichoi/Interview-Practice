@@ -66,20 +66,18 @@ Recursive body: split the array into less-than-items and greater-tahn-items base
 * Worst case runtime: N^2 (bad pivot close to min or max)
 #### Searching 
 
-### Tree
+### Graph
 #### Breadth-First Search
+* [BFS.py](Graph/BFS.py)
 * Queue used
 * Visit nodes by level, top to bottom, left to right
 #### Depth-First Search
+* [DFS.py](Graph/DFS.py)
 * Stack used
 * Visit deep nodes before shallow nodes
 * Pre-order: node -> node.left -> node.right
 * In-order: node.left -> node -> node.right
 * Post-order: node.left -> node.right -> node
-#### Binary Search Tree
-
-
-### Graph
 #### Dijkstra's Short Path Algorithm
 * With the association of weights (distance) and edges for each node, finds the shorest path from a starting vertex to all other nodes until the first visited item is visited again
 
