@@ -21,8 +21,9 @@ I can do it :)
 * [Tree](#tree)
     * [Binary Search Tree](#binary-search-tree)
     * [Binary Tree](#binary-tree)
-    * [Trie](#trie)
      
 ## Algorithms
+* 
 
-## 
+## Runtime
+* 
