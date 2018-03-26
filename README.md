@@ -87,10 +87,9 @@ Recursive body: split the array into less-than-items and greater-tahn-items base
 * With the association of weights (distance) and edges for each node, finds the shorest path from a starting vertex to all other nodes until the first visited item is visited again
 
 ## Runtime
-| Data Structure | Average Case | Worst Case |
-|----------------|--------------|------------|
-| | Access | Search | Insert | Remove | Access | Search | Insert | Remove |
-|-|--------|--------|--------|--------|--------|--------|--------|--------|
+| Data Structure | Average Case | | | | | Worst Case | | | | |
+|----------------|--------------|-|-|-|-|------------|-|-|-|-|
+
 
 
 
