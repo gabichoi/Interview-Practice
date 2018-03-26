@@ -25,7 +25,7 @@ I can do it :)
 ### Linked List
 |Topic |File |
 |------|-----|
-|Linked list class |[linked_list.py](Linked_list/linked_list.py)|
+|Linked list class |[linked_list.py](LinkedList/linked_list.py)|
 ### Stack
 * A new item is placed at the back 
 * Only the item at the back can be acceessed at any item
@@ -35,6 +35,10 @@ I can do it :)
 ### Hashing
 ### Heap
 ### Tree
+|Topic |File |
+|------|-----|
+|Tree class |[tree.py](Tree/tree.py)|
+|Balanced Tree |[balanced_tree.py](Tree/balanced_tree.py)|
 #### Binary Tree
 #### Binary Search Tree
 * Binary tree where the left nodes are less and the right nodes are greater than the parent node 
