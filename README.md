@@ -21,6 +21,7 @@ I can do it :)
 |------|-----|
 |Reverse an array without affecting items |[reverse_string.py](Array/reverse_string.py)|
 |Merge two sorted lists |[merge_sorted_lists.py](Array/merge_sorted_lists.py)|
+|Sum of non identical elements | [sum_of_elements.py](Array/sum_of_elements.py)|
 
 ### Linked List
 |Topic |File |
@@ -86,7 +87,11 @@ Recursive body: split the array into less-than-items and greater-tahn-items base
 * With the association of weights (distance) and edges for each node, finds the shorest path from a starting vertex to all other nodes until the first visited item is visited again
 
 ## Runtime
-| Data Structure | Best Case | Worst Case | Average Case |
+| Data Structure | Average Case | Worst Case |
+|----------------|--------------|------------|
+| | Access | Search | Insert | Remove | Access | Search | Insert | Remove |
+|-|--------|--------|--------|--------|--------|--------|--------|--------|
+
 
 
 | Algorithm | Best Case | Worst Case | Average Case |
