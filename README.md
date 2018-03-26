@@ -79,6 +79,7 @@ Recursive body: split the array into less-than-items and greater-tahn-items base
 * In-order: node.left -> node -> node.right
 * Post-order: node.left -> node.right -> node
 #### Dijkstra's Short Path Algorithm
+* [Dijkstra.py](Graph/Dijkstra.py)
 * With the association of weights (distance) and edges for each node, finds the shorest path from a starting vertex to all other nodes until the first visited item is visited again
 
 ## Runtime
