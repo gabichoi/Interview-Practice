@@ -17,9 +17,13 @@ I can do it :)
 ## Data Structures:
 
 ### Array
+| Topic | File |
+|-------|------|
+|Reverse an array without affecting items | [reverse_string.py](Array/reverse_string.py)|
+
 ### Linked List
 ### Stack
-* A new item is placed at the back (considering it horizontally) 
+* A new item is placed at the back 
 * Only the item at the back can be acceessed at any item
 ### Queue
 * A new item is placed at the last place
@@ -30,7 +34,7 @@ I can do it :)
 #### Binary Tree
 #### Binary Search Tree
 * Binary tree where the left nodes are less and the right nodes are greater than the parent node 
-* 
+
 ### Graph
 ### Matrix
      
@@ -48,7 +52,7 @@ For each item in the unsorted array, find and remove the smallest item and add i
 #### Merge Sort
 Base case: when an empty or one-item array is reached
 Recurse body: split the array to be sorted in half, recursively call merge sort on each half, merge the sorted half arrays
-* Best case: NlogN (
+* Best case: NlogN 
 * Worst case: NlogN 
 #### Quick Sort
 Base case: when an empty or one-item array is reached
@@ -80,9 +84,9 @@ Recursive body: split the array into less-than-items and greater-tahn-items base
 
 | Algorithm | Best Case | Worst Case | Average Case |
 |-----------|-----------|------------|--------------|
-Insertion Sort | N | N^2 | N^2 |
-Selection Sort | N^2 | N^2 | N^2 |
-Merge Sort | NlogN | NlogN | NlogN |
-Quick Sort | NlogN | N^2 | NlogN |
+| Insertion Sort | N | N^2 | N^2 |
+| Selection Sort | N^2 | N^2 | N^2 |
+| Merge Sort | NlogN | NlogN | NlogN |
+| Quick Sort | NlogN | N^2 | NlogN |
 
 
