@@ -1,4 +1,4 @@
-# Given a list, returns it sorted. Mergesort algorithm
+# Given a list, returns it sorted. Merge sort algorithm
 
 def mergesort(seq):
 
