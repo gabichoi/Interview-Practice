@@ -42,7 +42,7 @@
 |Merge two sorted lists |[merge_sorted_lists.py](Array/merge_sorted_lists.py)|
 |Sum of non identical elements | [sum_of_elements.py](Array/sum_of_elements.py)|
 
-### LinkedList
+### Linked List
 |Topic |File |
 |------|-----|
 |Linked list class |[linked_list.py](LinkedList/linked_list.py)|
