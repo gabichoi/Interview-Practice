@@ -12,8 +12,26 @@
 
 ## Index:
 * [Data Structures](#data-structure)
+ * [Array](#array)
+ * [Linked List](#linked-list)
+ * [Stack](#stack)
+ * [Queue](#queue)
+ * [Hashing](#hashing)
+ * [Heap](#heap)
+ * [Tree](#tree)
 * [Algorithms](#algorithms)
-* [Runtime](#runtime)
+ * [Array Sorting](#array-sort)
+  * [Insertion Sort](#insertion-sort)
+  * [Selection Sort](#selection-sort)
+  * [Merge Sort](#merge-sort)
+  * [Quick Sort](#quick-sort)
+ * [Graph Search](#graph-search)
+  * [Breadth First Search](#breadth-first-search)
+  * [Depth First Search](#depth-first-search)
+  * [Dijkstra's Short Path Algorithm](#dijkstra's-short-path-algorithm)
+* [Time Complexity](#time-complexity)
+ * [Data Structure Runtime](#data-structure-runtime)
+ * [Algorithm Runtime](#algorithm-runtime)
 ---
 
 ## Data Structures:
@@ -24,7 +42,7 @@
 |Merge two sorted lists |[merge_sorted_lists.py](Array/merge_sorted_lists.py)|
 |Sum of non identical elements | [sum_of_elements.py](Array/sum_of_elements.py)|
 
-### Linked List
+### LinkedList
 |Topic |File |
 |------|-----|
 |Linked list class |[linked_list.py](LinkedList/linked_list.py)|
@@ -52,7 +70,7 @@
 
 ## Algorithms
 
-### Array
+### Array Sorting
 #### Insertion Sort
 For each item in the unsorted array, swap the item forward until it is in the correct position
 * [insertion_sort.py](Array/insertion_sort.py)
@@ -88,14 +106,13 @@ Recursive body:
 * [quick_sort.py](Array/quick_sort.py)
 * Base case runtime: NlogN (good pivot close to median)
 * Worst case runtime: N^2 (bad pivot close to min or max)
----
 
-### Graph
-#### Breadth-First Search
+### Graph Search
+#### Breadth First Search
 * [BFS.py](Graph/BFS.py)
 * Queue used
 * Visit nodes by level, top to bottom, left to right
-#### Depth-First Search
+#### Depth First Search
 * [DFS.py](Graph/DFS.py)
 * Stack used
 * Visit deep nodes before shallow nodes
@@ -107,7 +124,8 @@ Recursive body:
 * With the association of weights (distance) and edges for each node, finds the shorest path from a starting vertex to all other nodes until the first visited item is visited again
 ---
 
-## Runtime
+## Time Complexity
+### Data Structure Runtime
 | Data Structure | Average Case | | | | Worst Case | | | |
 |----------------|--------------|-|-|-|------------|-|-|-|
 |  | Access | Search | Insert | Remove | Access | Search | Insert | Remove |
@@ -117,6 +135,7 @@ Recursive body:
 |Linked List|N|N|1|1|N|N|1|1|
 Binary Search Tree|logN|logN|logN|logN|N|N|N|N|
 
+### Algorithm Runtime
 | Algorithm | Best Case | Worst Case | Average Case |
 |-----------|-----------|------------|--------------|
 | Insertion Sort | N | N^2 | N^2 |
