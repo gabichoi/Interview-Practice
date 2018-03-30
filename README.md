@@ -28,7 +28,7 @@
     * [Graph Search](#graph-search)
         * [Breadth First Search](#breadth-first-search)
         * [Depth First Search](#depth-first-search)
-        * [Dijkstra's Short Path Algorithm](#dijkstra's-short-path-algorithm)
+        * [Dijkstra Short Path Algorithm](#dijkstra-short-path-algorithm)
 * [Time Complexity](#time-complexity)
     * [Data Structure Runtime](#data-structure-runtime)
     * [Algorithm Runtime](#algorithm-runtime)
@@ -119,7 +119,7 @@ Recursive body:
 ** Pre-order: node -> node.left -> node.right
 ** In-order: node.left -> node -> node.right
 ** Post-order: node.left -> node.right -> node
-#### Dijkstra's Short Path Algorithm
+#### Dijkstra Short Path Algorithm
 * [Dijkstra.py](Graph/Dijkstra.py)
 * With the association of weights (distance) and edges for each node, finds the shorest path from a starting vertex to all other nodes until the first visited item is visited again
 ---
