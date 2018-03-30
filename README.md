@@ -68,7 +68,7 @@ For each item in the unsorted array, find and remove the smallest item and add i
 ---
 #### Merge Sort
 Base case: when an empty or one-item array is reached
-Recurse body: 
+...Recurse body: 
 1. Split the array to be sorted in half
 2. Recursively call merge sort on each half
 3. Merge the sorted half arrays
