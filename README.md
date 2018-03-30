@@ -20,7 +20,7 @@
     * [Heap](#heap)
     * [Tree](#tree)
 * [Algorithms](#algorithms)
-    * [Array Sorting](#array-sort)
+    * [Array Sorting](#array-sorting)
         * [Insertion Sort](#insertion-sort)
         * [Selection Sort](#selection-sort)
         * [Merge Sort](#merge-sort)
