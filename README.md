@@ -12,29 +12,29 @@
 
 ## Index:
 * [Data Structures](#data-structure)
- * [Array](#array)
- * [Linked List](#linked-list)
- * [Stack](#stack)
- * [Queue](#queue)
- * [Hashing](#hashing)
- * [Heap](#heap)
- * [Tree](#tree)
+ ** [Array](#array)
+ ** [Linked List](#linked-list)
+ ** [Stack](#stack)
+ ** [Queue](#queue)
+ ** [Hashing](#hashing)
+ ** [Heap](#heap)
+ ** [Tree](#tree)
 * [Algorithms](#algorithms)
- * [Array Sorting](#array-sort)
-  * [Insertion Sort](#insertion-sort)
-  * [Selection Sort](#selection-sort)
-  * [Merge Sort](#merge-sort)
-  * [Quick Sort](#quick-sort)
- * [Graph Search](#graph-search)
-  * [Breadth First Search](#breadth-first-search)
-  * [Depth First Search](#depth-first-search)
-  * [Dijkstra's Short Path Algorithm](#dijkstra's-short-path-algorithm)
+ ** [Array Sorting](#array-sort)
+  *** [Insertion Sort](#insertion-sort)
+  *** [Selection Sort](#selection-sort)
+  *** [Merge Sort](#merge-sort)
+  *** [Quick Sort](#quick-sort)
+ ** [Graph Search](#graph-search)
+  *** [Breadth First Search](#breadth-first-search)
+  *** [Depth First Search](#depth-first-search)
+  *** [Dijkstra's Short Path Algorithm](#dijkstra's-short-path-algorithm)
 * [Time Complexity](#time-complexity)
- * [Data Structure Runtime](#data-structure-runtime)
- * [Algorithm Runtime](#algorithm-runtime)
+ ** [Data Structure Runtime](#data-structure-runtime)
+ ** [Algorithm Runtime](#algorithm-runtime)
 ---
 
-## Data Structures:
+## Data Structures
 ### Array
 |Topic |File |
 |------|-----|
