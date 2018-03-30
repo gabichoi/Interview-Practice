@@ -1,5 +1,5 @@
 # Self-Practice
-I can do it :)
+:smile:
 
 ## Tips:
 * Think out loudly
