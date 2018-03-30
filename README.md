@@ -23,24 +23,24 @@
 |Reverse an array without affecting items |[reverse_string.py](Array/reverse_string.py)|
 |Merge two sorted lists |[merge_sorted_lists.py](Array/merge_sorted_lists.py)|
 |Sum of non identical elements | [sum_of_elements.py](Array/sum_of_elements.py)|
----
+
 ### Linked List
 |Topic |File |
 |------|-----|
 |Linked list class |[linked_list.py](LinkedList/linked_list.py)|
----
+
 ### Stack
 * A new item is placed at the back 
 * Only the item at the back can be acceessed at any item
----
+
 ### Queue
 * A new item is placed at the last place
 * Only the item at the front can be acceessed at any item
----
+
 ### Hashing
----
+
 ### Heap
----
+
 ### Tree
 |Topic |File |
 |------|-----|
@@ -49,23 +49,22 @@
 |Binary Tree class|[binary_tree.py](Tree/binary_tree.py)|
 |Sum of all entries in the tree|[sum_of_entries.py](Tree/sum_of_entries.py)|
 ---
+
 ## Algorithms
----
 
 ### Array
----
 #### Insertion Sort
 For each item in the unsorted array, swap the item forward until it is in the correct position
 * [insertion_sort.py](Array/insertion_sort.py)
 * Best case: N (array is already ordered so only checking each item)
 * Worst case: N^2 (array is reversed-sorted so swap for each item)
----
+
 #### Selection Sort
 For each item in the unsorted array, find and remove the smallest item and add it to the sorted array
 * [selection_sort.py](Array/selection_sort.py)
 * Best case: N^2 (compare each tiem with every other item)
 * Worst case: N^2
----
+
 #### Merge Sort
 Base case: when an empty or one-item array is reached
 
@@ -77,7 +76,7 @@ Recurse body:
 * [merge_sort.py](Array/merge_sort.py)
 * Best case: NlogN 
 * Worst case: NlogN 
----
+
 #### Quick Sort
 Base case: when an empty or one-item array is reached
 
@@ -106,6 +105,7 @@ Recursive body:
 #### Dijkstra's Short Path Algorithm
 * [Dijkstra.py](Graph/Dijkstra.py)
 * With the association of weights (distance) and edges for each node, finds the shorest path from a starting vertex to all other nodes until the first visited item is visited again
+---
 
 ## Runtime
 | Data Structure | Average Case | | | | Worst Case | | | |
