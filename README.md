@@ -71,16 +71,18 @@ Base case: when an empty or one-item array is reached
 
 Recurse body: 
 
-* 1. Split the array to be sorted in half
-* 2. Recursively call merge sort on each half
-* 3. Merge the sorted half arrays
+1. Split the array to be sorted in half
+2. Recursively call merge sort on each half
+3. Merge the sorted half arrays
 * [merge_sort.py](Array/merge_sort.py)
 * Best case: NlogN 
 * Worst case: NlogN 
 ---
 #### Quick Sort
 Base case: when an empty or one-item array is reached
+
 Recursive body: 
+
 1. Split the array into less-than-items and greater-tahn-items based on a pivot
 2. Recursively call quicksort on each array
 3. Merge the sorted arrays
